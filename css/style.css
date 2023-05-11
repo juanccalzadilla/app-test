@@ -1,0 +1,38 @@
+
+/* Estilos propios */
+
+:root {
+  --primary: #002e5d;
+  --bg-brand-light: #144f8a1c;
+
+}
+
+.rounded-brand{
+    border-radius: 20px;
+}
+
+.rounded-full{
+    border-radius: 50%;
+}
+
+.card-brand{
+  background-color: white;
+}
+
+.text-brand{
+  color: var(--primary);
+}
+
+.text-brand-light{
+  color: var(--bg-brand-light);
+}
+
+.bg-brand-light{
+  background-color: var(--bg-brand-light);
+}
+
+.fs-icons-index{
+  font-size: 2.7rem;
+}
+
+
